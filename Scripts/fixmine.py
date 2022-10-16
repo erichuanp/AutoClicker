@@ -1,8 +1,7 @@
 import Core as op
 times = 0
-op.delay(5)
 while True:
-    op.delay(1)
+    op.delay(5)
     op.press('divide')
     op.write('fix all')
     op.press('Enter')
