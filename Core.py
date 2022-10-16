@@ -36,6 +36,3 @@ def write(string):
 
 def delay(time):
     pag.time.sleep(time)
-
-
-delay(5)
