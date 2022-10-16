@@ -2,7 +2,7 @@ import Core as op
 times = 0
 while True:
     op.delay(5)
-    op.press('divide')
+    op.press('/')
     op.write('fix all')
     op.press('Enter')
 
